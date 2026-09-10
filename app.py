@@ -24,7 +24,7 @@ st.set_page_config(
 
 BASE_DIR = Path(__file__).resolve().parent
 DATA_PATH = BASE_DIR / "cleaned_food_delivery.csv"
-MODEL_PATH = BASE_DIR / "models" / "final_lstm_v3.keras"
+MODEL_PATH = BASE_DIR / "models" / "final_lstm_v3.h5"
 
 
 # ============================================================
